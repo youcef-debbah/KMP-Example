@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="runServer" type="JetRunConfigurationType">
+  <configuration default="false" name="server" type="JetRunConfigurationType">
     <option name="MAIN_CLASS_NAME" value="dz.nexatech.trila.MainServerKt" />
     <module name="trila.backend.main" />
     <shortenClasspath name="NONE" />
