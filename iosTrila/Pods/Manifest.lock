@@ -1,0 +1,16 @@
+PODS:
+  - frontend (1.0.1)
+
+DEPENDENCIES:
+  - frontend (from `../frontend`)
+
+EXTERNAL SOURCES:
+  frontend:
+    :path: "../frontend"
+
+SPEC CHECKSUMS:
+  frontend: 57235feee4986404f02c6c4a3c1ae3a9de9c1c3a
+
+PODFILE CHECKSUM: 59d4ad071c9ad51ac346d8a690ae540a86e76c0f
+
+COCOAPODS: 1.16.2

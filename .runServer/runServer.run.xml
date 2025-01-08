@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="runServer" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="dz.nexatech.trila.MainServerKt" />
+    <module name="trila.backend.main" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks="buildFatJar" externalProjectPath="$PROJECT_DIR$/backend" vmOptions="" scriptParameters="" />
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
